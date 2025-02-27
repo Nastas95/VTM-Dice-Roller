@@ -1,2 +1,27 @@
 # VTM-Dice-Roller
-Simple (but complete) Dice Roller for Vampire The Masquerade
+![Version](https://img.shields.io/badge/Version-1.0-green)
+
+A simple dice roller application for Vampire: The Masquerade 20th Anniversary Edition (V20) built with Python and Tkinter.
+
+## Features
+- 🎲 Roll pools of d10s with specialization support
+- ⚙️ Adjustable difficulty (2-9) via dropdown menu
+- 🎯 Automatic success/failure/critical failure calculation
+- 🌙 Dark theme with atmospheric colors:
+  - Red for failures
+  - Green for successes
+- 📊 Detailed results display showing:
+  - Total dice rolled
+  - Individual die results
+  - Success count with specialization bonuses
+ 
+  - ITALIAN AND ENGLISH VERSION ARE AVAILABLE
+
+## Requirements
+- Python 3.6+
+- Tkinter (usually included with Python)
+
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/v20-dice-roller.git
