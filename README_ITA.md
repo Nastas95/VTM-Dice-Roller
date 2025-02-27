@@ -13,7 +13,7 @@ Un'applicazione per il lancio dei dadi per Vampire: The Masquerade 20th Annivers
   - Numero totale di dadi lanciati
   - Risultati individuali dei dadi
   - Conteggio successi con bonus per specializzazioni
-  - Esito narrativo dell'azione
+  - DISPONIBILE IN INGLESE E ITALIANO
 
 ## Requisiti
 - Python 3.6+
