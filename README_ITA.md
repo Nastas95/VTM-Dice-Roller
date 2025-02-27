@@ -22,4 +22,4 @@ Un'applicazione per il lancio dei dadi per Vampire: The Masquerade 20th Annivers
 ## Installazione
 1. Clona il repository:
 ```bash
-git clone https://github.com/yourusername/v20-dice-roller.git
+git clone https://github.com/Nastas95/VTM-Dice-Roller.git
