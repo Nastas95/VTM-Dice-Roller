@@ -15,7 +15,7 @@ A simple dice roller application for Vampire: The Masquerade 20th Anniversary Ed
   - Individual die results
   - Success count with specialization bonuses
  
-  - ITALIAN AND ENGLISH VERSION ARE AVAILABLE
+- ITALIAN AND ENGLISH VERSION ARE AVAILABLE
 
 ## Requirements
 - Python 3.6+
