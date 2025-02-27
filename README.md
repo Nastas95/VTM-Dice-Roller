@@ -24,4 +24,4 @@ A simple dice roller application for Vampire: The Masquerade 20th Anniversary Ed
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/v20-dice-roller.git
+git clone https://github.com/Nastas95/VTM-Dice-Roller.git
