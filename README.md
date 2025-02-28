@@ -26,3 +26,5 @@ A simple dice roller application for Vampire: The Masquerade 20th Anniversary Ed
 `git clone https://github.com/Nastas95/VTM-Dice-Roller.git`
 2. Run the script by double clicking it or
   `python VTM_Dice_Roller_EN.py`
+---
+[Readme in italiano](https://github.com/Nastas95/VTM-Dice-Roller/blob/main/README_ITA.md)
