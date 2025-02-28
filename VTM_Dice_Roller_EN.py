@@ -107,10 +107,10 @@ class DiceRoller:
                 if die == 10 and self.specialization.get():
                     tens += 1
 
-        total_successes = successes + tens
+        total_successes = (successes + tens) - ones
 
         # Determine result type
-        if total_successes == 0:
+        if total_successes <= 0:
             if ones > 0:
                 result = "Critical Failure!"
                 tag = "bold_red"
