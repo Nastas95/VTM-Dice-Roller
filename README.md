@@ -22,9 +22,14 @@ A simple dice roller application for Vampire: The Masquerade 20th Anniversary Ed
 - Tkinter (usually included with Python)
 
 ## Installation
+Download the latest [release](https://github.com/Nastas95/VTM-Dice-Roller/releases)
+Extract the executable and run it
+**NOTE**: Windows version needs the executable and the "_internal" folder in the same directory in order to work
+
+## Alternative installation
 1. Clone the repository:
 `git clone https://github.com/Nastas95/VTM-Dice-Roller.git`
-2. Run the script by double clicking it or
+2. Run the script with
   `python VTM_Dice_Roller_EN.py`
 ---
 [Readme in italiano](https://github.com/Nastas95/VTM-Dice-Roller/blob/main/README_ITA.md)
