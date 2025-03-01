@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import tkinter as tk
 from tkinter import messagebox
 from random import randint
@@ -127,7 +126,7 @@ class DiceRoller:
 
         if self.specialization.get() and tens > 0:
             self.result_text.insert(tk.END, "Successi critici: ", "yellow")
-            self.result_text.insert(tk.END, f"{tens} (10s doubled)\n", "bold_green")
+            self.result_text.insert(tk.END, f"{tens} \n", "bold_green")
 
         self.result_text.insert(tk.END, "Risultato: ", "yellow")
         self.result_text.insert(tk.END, f"{result}\n", tag)
