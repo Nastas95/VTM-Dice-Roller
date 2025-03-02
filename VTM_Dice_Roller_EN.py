@@ -109,13 +109,12 @@ class DiceRoller:
         total_successes = (successes + tens) - ones
 
         # Determine result type
-        if total_successes <= 0:
-            if ones > 0:
-                result = "Critical Failure!"
-                tag = "bold_red"
-            else:
-                result = "Failure"
-                tag = "red"
+        if total_successes < 0:
+            result = "Critical Failure!"
+            tag = "bold_red"
+        elif total_successes == 0:
+            result = "Failure"
+            tag = "red"
         else:
             result = f"{total_successes} Success(es)"
             tag = "green"
